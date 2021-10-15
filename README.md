@@ -6,9 +6,10 @@
 
 ## 작성법
 - 폴더 및 파일명은 영문으로 작성한다.
-- 노션에서 작성 후 Markdown으로 Github에 저장한다.
+- 노션에서 작성 후 Markdown으로 Github에 저장한다. ([노션 링크](https://gnlenfn.notion.site/TIL-23bf89d56c3c427995f6b008e4f051dd))
 - 필요한 경우 외부 링크를 잘 활용한다.
 
 ## 분류
 ### Database
 - [[2021.10.15] 서브쿼리](https://github.com/gnlenfn/TIL/blob/main/Database/Subquery.md)
+- [[2021.10.15] 관계 데이터 모델 용어 정리](https://github.com/gnlenfn/TIL/blob/main/Database/database_terms.md)
