@@ -26,9 +26,9 @@ State: Complete
 
 ```sql
 SELECT 학생이름,
-			( SELECT 학과.학과이름
-				FROM 학과
-				WHERE 학과.학과ID = 학생.학생ID ) AS 학과이름
+    ( SELECT 학과.학과이름
+        FROM 학과
+        WHERE 학과.학과ID = 학생.학생ID ) AS 학과이름
 FROM 학생
 WHERE 학생이름 = '홍길동';
 ```
@@ -42,7 +42,7 @@ WHERE 학생이름 = '홍길동';
 ```sql
 SELECT 학생이름, 수학점수
 FROM ( SELECT 학생.학생이름 AS 학생이름,
-							과목.과목점수 AS 수학점수
+			과목.과목점수 AS 수학점수
 			FROM 학생, 과목
 			WHERE 학생.학생이름 = 과목.학생이름
 			AND 과목.과목이름 = '수학') ;
