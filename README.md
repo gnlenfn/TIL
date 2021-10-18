@@ -17,4 +17,4 @@
 
 ### DS / Algorithm
 - [[2021.10.16] DFS](https://github.com/gnlenfn/TIL/blob/main/DS%26Algorithm/DFS.md)
-- [[2021.10.17] DFS 연습문제, 인접행렬과 인접리스트](https://github.com/gnlenfn/TIL/blob/main/DS%26Algorithm/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+- [[2021.10.17] DFS 연습문제, 인접행렬과 인접리스트](https://github.com/gnlenfn/TIL/blob/main/DS%26Algorithm/%5BProgrammers%5DNetwork.md)
