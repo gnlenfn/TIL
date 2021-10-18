@@ -13,6 +13,7 @@
 ### Database
 - [[2021.10.15] 서브쿼리](https://github.com/gnlenfn/TIL/blob/main/Database/Subquery.md)
 - [[2021.10.15] 관계 데이터 모델 용어 정리](https://github.com/gnlenfn/TIL/blob/main/Database/database_terms.md)
+- [[2021.10.18] 정규화](https://github.com/gnlenfn/TIL/blob/main/Database/Normalization.md)
 
 ### DS / Algorithm
 - [[2021.10.16] DFS](https://github.com/gnlenfn/TIL/blob/main/DS%26Algorithm/DFS.md)
