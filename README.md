@@ -16,8 +16,8 @@
 - [[2021.10.18] 정규화](https://github.com/gnlenfn/TIL/blob/main/Database/Normalization.md)
 
 ### DS / Algorithm
-- [[2021.10.16] DFS](https://github.com/gnlenfn/TIL/blob/main/DS%26Algorithm/DFS.md)
-- [[2021.10.17] DFS 연습문제, 인접행렬과 인접리스트](https://github.com/gnlenfn/TIL/blob/main/DS%26Algorithm/%5BProgrammers%5DNetwork.md)
+- [[2021.10.16] DFS](https://github.com/gnlenfn/TIL/blob/main/Algorithm/DFS.md)
+- [[2021.10.17] DFS 연습문제, 인접행렬과 인접리스트](https://github.com/gnlenfn/TIL/blob/main/Algorithm/%5BProgrammers%5DNetwork.md)
 
 ### OS
 - [[2021.10.21] 운영체제 개요](https://github.com/gnlenfn/TIL/blob/main/OS/OS_intro.md)
