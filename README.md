@@ -22,3 +22,6 @@
 
 ### OS
 - [[2021.10.21] 운영체제 개요](https://github.com/gnlenfn/TIL/blob/main/OS/OS_intro.md)
+
+### Linux
+- [[2021.10.24] cron](https://github.com/gnlenfn/TIL/blob/main/Linux/cron.md)
