@@ -25,3 +25,6 @@
 
 ### Linux
 - [[2021.10.24] cron](https://github.com/gnlenfn/TIL/blob/main/Linux/cron.md)
+
+### Python
+- [[2021.10.25] 비트마스크](https://github.com/gnlenfn/TIL/blob/main/Python/bitmask.md)
