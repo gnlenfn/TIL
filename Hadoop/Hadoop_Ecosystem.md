@@ -1,8 +1,3 @@
-# Hadoop Ecosystem
-
-State: Complete
-최종 편집: 2021년 10월 31일 오후 6:51
-
 ![Untitled](./img/eco1.png)
 
 ![Untitled](./img/eco2.png)
